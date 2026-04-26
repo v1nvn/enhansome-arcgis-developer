@@ -138,11 +138,11 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 ## Data conversion tools
 
 * Core geospatial processing libraries:
-  * [gdal](https://github.com/OSGeo/gdal) ⭐ 5,877 | 🐛 540 | 🌐 C++ | 📅 2026-04-24 - Translator library for raster and vector geospatial data formats.
+  * [gdal](https://github.com/OSGeo/gdal) ⭐ 5,879 | 🐛 542 | 🌐 C++ | 📅 2026-04-25 - Translator library for raster and vector geospatial data formats.
   * [loam](https://github.com/azavea/loam) ⭐ 227 | 🐛 18 | 🌐 JavaScript | 📅 2023-11-09 - JavaScript wrapper for GDAL in the browser.
   * [ArcPy](https://pro.arcgis.com/en/pro-app/arcpy/main/arcgis-pro-arcpy-reference.htm) - Python interface to the ArcGIS geoprocessing framework for automating spatial analysis, data management, and mapping.
 * Simplification and generalization:
-  * [Mapshaper](https://github.com/mbloch/mapshaper) ⭐ 4,095 | 🐛 144 | 🌐 JavaScript | 📅 2026-04-24 - Web application to simplify shapes, edit attribute data, clip, erase, dissolve, filter, etc. Supported file formats: Shapefile, GeoJSON, TopoJSON, and CSV files.
+  * [Mapshaper](https://github.com/mbloch/mapshaper) ⭐ 4,096 | 🐛 144 | 🌐 JavaScript | 📅 2026-04-25 - Web application to simplify shapes, edit attribute data, clip, erase, dissolve, filter, etc. Supported file formats: Shapefile, GeoJSON, TopoJSON, and CSV files.
   * [Distillery](http://shancarter.github.io/distillery/) - Web application to simplify and project TopoJSON.
   * [Feature Service Layer](https://developers.arcgis.com/rest/services-reference/enterprise/query-feature-service-layer-.htm) - Use the `maxAllowableOffset` parameter to return generalized geometries with the `query` operation.
   * [Generalize method](https://esri-es.github.io/arcgis-search/?search=geometryEngine.generalize#gsc.tab=0\&gsc.q=%22generalize%22%20site:developers.arcgis.com\&gsc.sort=) - GeometryEngine can produce a geometry with fewer vertices programmatically. Several APIs support it: JavaScript, iOS, Android, .NET, Qt, and Java.
@@ -227,7 +227,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 
 ## Map and data exploration
 
-* [Mapshaper](https://github.com/mbloch/mapshaper) ⭐ 4,095 | 🐛 144 | 🌐 JavaScript | 📅 2026-04-24 - Web application to simplify shapes, edit attribute data, clip, erase, dissolve, filter, etc. Supported file formats: Shapefile, GeoJSON, TopoJSON, and CSV files.
+* [Mapshaper](https://github.com/mbloch/mapshaper) ⭐ 4,096 | 🐛 144 | 🌐 JavaScript | 📅 2026-04-25 - Web application to simplify shapes, edit attribute data, clip, erase, dissolve, filter, etc. Supported file formats: Shapefile, GeoJSON, TopoJSON, and CSV files.
 * [geojson.io](https://github.com/mapbox/geojson.io) ⭐ 2,139 | 🐛 79 | 🌐 TypeScript | 📅 2026-04-21 - Web application to visualize, generate, and edit geospatial vector data. Supports GeoJSON, TopoJSON, CSV, KML, WKT, and Shapefile.
 * [gpxstudio](https://github.com/gpxstudio/gpxstudio.github.io) ⚠️ Archived - Online and open source GPX file editor.
 * [ArcGIS Map Viewer](https://www.arcgis.com/apps/mapviewer/index.html) - Web application to create, explore, and share web maps for 2D applications.
@@ -251,7 +251,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 
 <!--lint disable double-link-->
 
-* [Turf.js](https://github.com/Turfjs/turf) ⭐ 10,339 | 🐛 301 | 🌐 TypeScript | 📅 2026-04-24 - Geospatial analysis for browsers and Node.js.
+* [Turf.js](https://github.com/Turfjs/turf) ⭐ 10,341 | 🐛 301 | 🌐 TypeScript | 📅 2026-04-24 - Geospatial analysis for browsers and Node.js.
 * [Esri/gis-tools-for-hadoop](https://github.com/Esri/gis-tools-for-hadoop) ⭐ 523 | 🐛 21 | 📅 2022-04-07 - Collection of GIS tools for spatial analysis of big data.
 * [Esri/spatial-framework-for-hadoop](https://github.com/Esri/spatial-framework-for-hadoop) ⭐ 376 | 🐛 25 | 🌐 Java | 📅 2026-03-02 - Allows developers and data scientists to use the Hadoop data processing system for spatial data analysis.
 * [ArcGIS Analysis services](https://developers.arcgis.com/rest/analysis-services/) - Spatial, raster, elevation, hydrology, and utility network analysis.
@@ -281,16 +281,16 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 
 **Related awesome lists**
 
-* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 74,274 | 🐛 147 | 📅 2026-04-23 - A topic-centric list of high-quality open datasets.
-* [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) ⭐ 10,830 | 🐛 17 | 📅 2021-05-08 - Networks by architecture (semantic segmentation, instance aware segmentation, etc.), RNN, GANS, datasets, and more.
-* [awesome-gis](https://github.com/sshuair/awesome-gis) ⭐ 5,323 | 🐛 33 | 📅 2026-03-29 - GIS, remote sensing, 3D apps, Web Map Servers, Geospatial libraries, Open Standards, data, etc.
-* [awesome-geospatial](https://github.com/sacridini/Awesome-Geospatial) ⭐ 4,976 | 🐛 0 | 📅 2026-04-22 - Databases, radar, lidar, web map development, etc.
+* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 74,364 | 🐛 147 | 📅 2026-04-23 - A topic-centric list of high-quality open datasets.
+* [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) ⭐ 10,831 | 🐛 17 | 📅 2021-05-08 - Networks by architecture (semantic segmentation, instance aware segmentation, etc.), RNN, GANS, datasets, and more.
+* [awesome-gis](https://github.com/sshuair/awesome-gis) ⭐ 5,325 | 🐛 33 | 📅 2026-03-29 - GIS, remote sensing, 3D apps, Web Map Servers, Geospatial libraries, Open Standards, data, etc.
+* [awesome-geospatial](https://github.com/sacridini/Awesome-Geospatial) ⭐ 4,977 | 🐛 0 | 📅 2026-04-22 - Databases, radar, lidar, web map development, etc.
 * [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) ⚠️ Archived - List of satellite image training datasets with annotations for computer vision and deep learning.
 * [awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) ⚠️ Archived - JSON datasets that don't require authentication about: climate, crime, government, NASA, travel, etc.
-* [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) ⭐ 2,594 | 🐛 3 | 📅 2026-04-22 - Implementations of the Mapbox Vector Tile specification: parsers & generators, clients, apps, and command line tools, CLI utilities, servers, etc.
+* [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) ⭐ 2,595 | 🐛 3 | 📅 2026-04-22 - Implementations of the Mapbox Vector Tile specification: parsers & generators, clients, apps, and command line tools, CLI utilities, servers, etc.
 * [awesome-geojson](https://github.com/tmcw/awesome-geojson) ⭐ 2,485 | 🐛 0 | 📅 2026-02-01 - GeoJSON utilities: operations,editors & viewers, validation, services, conversion, etc.
 * [awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,199 | 🐛 2 | 📅 2026-04-16 - List of datasets, codes, and contests related to remote sensing change detection.
-* [awesome-open-geoscience](https://github.com/softwareunderground/awesome-open-geoscience) ⭐ 1,740 | 🐛 10 | 📅 2025-11-28 - Curated from repositories that make our lives as geoscientists, hackers, and data wranglers easier or just more awesome.
+* [awesome-open-geoscience](https://github.com/softwareunderground/awesome-open-geoscience) ⭐ 1,741 | 🐛 10 | 📅 2025-11-28 - Curated from repositories that make our lives as geoscientists, hackers, and data wranglers easier or just more awesome.
 * [awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code) ⭐ 1,338 | 🐛 1 | 🌐 HTML | 📅 2026-02-01 - Tools, tutorials, code, helpful projects, and links about Earth Observation and Geospatial stuff.
 * [awesome-arcgis](https://github.com/esri-es/awesome-arcgis/) ⭐ 29 | 🐛 0 | 🌐 HTML | 📅 2021-01-05 - Awesome list with a wiki flavor with resources about Esri and ArcGIS, organized by: products, industries, file formats, content providers, etc.
 
