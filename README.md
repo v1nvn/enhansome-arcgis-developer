@@ -103,8 +103,8 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 ## Code samples and snippets
 
 * JavaScript:
-  * [Esri/jsapi-resources](https://github.com/Esri/jsapi-resources) ⭐ 760 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-28 - A collection of resources for developers using the ArcGIS API for JavaScript.
-  * [ArcGIS REST JS demos](https://github.com/Esri/arcgis-rest-js/tree/master/demos) ⭐ 379 | 🐛 56 | 🌐 TypeScript | 📅 2026-05-06 - Demo apps built by Esri's REST JS maintainers.
+  * [Esri/jsapi-resources](https://github.com/Esri/jsapi-resources) ⭐ 760 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-09 - A collection of resources for developers using the ArcGIS API for JavaScript.
+  * [ArcGIS REST JS demos](https://github.com/Esri/arcgis-rest-js/tree/master/demos) ⭐ 379 | 🐛 56 | 🌐 TypeScript | 📅 2026-05-08 - Demo apps built by Esri's REST JS maintainers.
   * [Esri/arcgis-js-vscode-snippets](https://github.com/Esri/arcgis-js-vscode-snippets) ⭐ 28 | 🐛 11 | 🌐 HTML | 📅 2025-10-01 - Collection of Visual Studio Code snippets for common code patterns for the ArcGIS API for JavaScript.
   * [RalucaNicola/code-snippets-arcgis-api-js](https://github.com/RalucaNicola/code-snippets-arcgis-api-js) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2020-07-20 - A collection of code snippets for ArcGIS API for JavaScript.
   * [arcgis-js-api-starter-apps](https://github.com/hhkaos/arcgis-js-api-starter-apps) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2023-01-16 - Collection of boilerplates to get started with the ArcGIS API for JavaScript 4.x.
@@ -138,17 +138,17 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 ## Data conversion tools
 
 * Core geospatial processing libraries:
-  * [gdal](https://github.com/OSGeo/gdal) ⭐ 5,895 | 🐛 533 | 🌐 C++ | 📅 2026-05-07 - Translator library for raster and vector geospatial data formats.
+  * [gdal](https://github.com/OSGeo/gdal) ⭐ 5,896 | 🐛 534 | 🌐 C++ | 📅 2026-05-08 - Translator library for raster and vector geospatial data formats.
   * [loam](https://github.com/azavea/loam) ⭐ 227 | 🐛 18 | 🌐 JavaScript | 📅 2023-11-09 - JavaScript wrapper for GDAL in the browser.
   * [ArcPy](https://pro.arcgis.com/en/pro-app/arcpy/main/arcgis-pro-arcpy-reference.htm) - Python interface to the ArcGIS geoprocessing framework for automating spatial analysis, data management, and mapping.
 * Simplification and generalization:
-  * [Mapshaper](https://github.com/mbloch/mapshaper) ⭐ 4,101 | 🐛 138 | 🌐 JavaScript | 📅 2026-05-07 - Web application to simplify shapes, edit attribute data, clip, erase, dissolve, filter, etc. Supported file formats: Shapefile, GeoJSON, TopoJSON, and CSV files.
+  * [Mapshaper](https://github.com/mbloch/mapshaper) ⭐ 4,103 | 🐛 138 | 🌐 JavaScript | 📅 2026-05-08 - Web application to simplify shapes, edit attribute data, clip, erase, dissolve, filter, etc. Supported file formats: Shapefile, GeoJSON, TopoJSON, and CSV files.
   * [Distillery](http://shancarter.github.io/distillery/) - Web application to simplify and project TopoJSON.
   * [Feature Service Layer](https://developers.arcgis.com/rest/services-reference/enterprise/query-feature-service-layer-.htm) - Use the `maxAllowableOffset` parameter to return generalized geometries with the `query` operation.
   * [Generalize method](https://esri-es.github.io/arcgis-search/?search=geometryEngine.generalize#gsc.tab=0\&gsc.q=%22generalize%22%20site:developers.arcgis.com\&gsc.sort=) - GeometryEngine can produce a geometry with fewer vertices programmatically. Several APIs support it: JavaScript, iOS, Android, .NET, Qt, and Java.
   * [PostGIS ST\_Simplify](https://postgis.net/docs/ST_Simplify.html) - This operation returns a *simplified* version of the given geometry using the Douglas-Peucker algorithm.
 * Format conversion:
-  * [terraformer](https://github.com/terraformer-js/terraformer) ⭐ 232 | 🐛 13 | 🌐 JavaScript | 📅 2026-05-07 - Convert ArcGIS JSON to and from GeoJSON, convert WKT geometries to and from GeoJSON geometries, and other formats.
+  * [terraformer](https://github.com/terraformer-js/terraformer) ⭐ 232 | 🐛 14 | 🌐 JavaScript | 📅 2026-05-09 - Convert ArcGIS JSON to and from GeoJSON, convert WKT geometries to and from GeoJSON geometries, and other formats.
   * [tokml](https://github.com/mapbox/tokml) ⭐ 193 | 🐛 10 | 🌐 JavaScript | 📅 2026-04-13 - Convert GeoJSON to KML.
   * [geojsonio](https://github.com/ropensci/geojsonio) ⭐ 154 | 🐛 10 | 🌐 R | 📅 2023-10-25 - Convert many data formats to and from GeoJSON and TopoJSON.
   * [geojson2svg](https://github.com/w8r/geojson2svg) ⭐ 66 | 🐛 10 | 🌐 JavaScript | 📅 2023-02-03 - Render GeoJSON into SVG using an inline or external stylesheet.
@@ -227,7 +227,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 
 ## Map and data exploration
 
-* [Mapshaper](https://github.com/mbloch/mapshaper) ⭐ 4,101 | 🐛 138 | 🌐 JavaScript | 📅 2026-05-07 - Web application to simplify shapes, edit attribute data, clip, erase, dissolve, filter, etc. Supported file formats: Shapefile, GeoJSON, TopoJSON, and CSV files.
+* [Mapshaper](https://github.com/mbloch/mapshaper) ⭐ 4,103 | 🐛 138 | 🌐 JavaScript | 📅 2026-05-08 - Web application to simplify shapes, edit attribute data, clip, erase, dissolve, filter, etc. Supported file formats: Shapefile, GeoJSON, TopoJSON, and CSV files.
 * [geojson.io](https://github.com/mapbox/geojson.io) ⭐ 2,144 | 🐛 80 | 🌐 TypeScript | 📅 2026-05-07 - Web application to visualize, generate, and edit geospatial vector data. Supports GeoJSON, TopoJSON, CSV, KML, WKT, and Shapefile.
 * [gpxstudio](https://github.com/gpxstudio/gpxstudio.github.io) ⚠️ Archived - Online and open source GPX file editor.
 * [ArcGIS Map Viewer](https://www.arcgis.com/apps/mapviewer/index.html) - Web application to create, explore, and share web maps for 2D applications.
@@ -281,16 +281,16 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 
 **Related awesome lists**
 
-* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 75,178 | 🐛 150 | 📅 2026-05-05 - A topic-centric list of high-quality open datasets.
+* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 75,230 | 🐛 150 | 📅 2026-05-05 - A topic-centric list of high-quality open datasets.
 * [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) ⭐ 10,834 | 🐛 17 | 📅 2021-05-08 - Networks by architecture (semantic segmentation, instance aware segmentation, etc.), RNN, GANS, datasets, and more.
-* [awesome-gis](https://github.com/sshuair/awesome-gis) ⭐ 5,339 | 🐛 33 | 📅 2026-04-29 - GIS, remote sensing, 3D apps, Web Map Servers, Geospatial libraries, Open Standards, data, etc.
-* [awesome-geospatial](https://github.com/sacridini/Awesome-Geospatial) ⭐ 4,998 | 🐛 1 | 📅 2026-05-05 - Databases, radar, lidar, web map development, etc.
+* [awesome-gis](https://github.com/sshuair/awesome-gis) ⭐ 5,340 | 🐛 34 | 📅 2026-04-29 - GIS, remote sensing, 3D apps, Web Map Servers, Geospatial libraries, Open Standards, data, etc.
+* [awesome-geospatial](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,000 | 🐛 1 | 📅 2026-05-05 - Databases, radar, lidar, web map development, etc.
 * [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) ⚠️ Archived - List of satellite image training datasets with annotations for computer vision and deep learning.
 * [awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) ⚠️ Archived - JSON datasets that don't require authentication about: climate, crime, government, NASA, travel, etc.
 * [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) ⭐ 2,599 | 🐛 2 | 📅 2026-05-02 - Implementations of the Mapbox Vector Tile specification: parsers & generators, clients, apps, and command line tools, CLI utilities, servers, etc.
-* [awesome-geojson](https://github.com/tmcw/awesome-geojson) ⭐ 2,488 | 🐛 0 | 📅 2026-02-01 - GeoJSON utilities: operations,editors & viewers, validation, services, conversion, etc.
-* [awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,205 | 🐛 2 | 📅 2026-04-16 - List of datasets, codes, and contests related to remote sensing change detection.
-* [awesome-open-geoscience](https://github.com/softwareunderground/awesome-open-geoscience) ⭐ 1,750 | 🐛 12 | 📅 2025-11-28 - Curated from repositories that make our lives as geoscientists, hackers, and data wranglers easier or just more awesome.
+* [awesome-geojson](https://github.com/tmcw/awesome-geojson) ⭐ 2,489 | 🐛 0 | 📅 2026-02-01 - GeoJSON utilities: operations,editors & viewers, validation, services, conversion, etc.
+* [awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,206 | 🐛 2 | 📅 2026-04-16 - List of datasets, codes, and contests related to remote sensing change detection.
+* [awesome-open-geoscience](https://github.com/softwareunderground/awesome-open-geoscience) ⭐ 1,751 | 🐛 12 | 📅 2025-11-28 - Curated from repositories that make our lives as geoscientists, hackers, and data wranglers easier or just more awesome.
 * [awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code) ⭐ 1,341 | 🐛 1 | 🌐 HTML | 📅 2026-02-01 - Tools, tutorials, code, helpful projects, and links about Earth Observation and Geospatial stuff.
 * [awesome-arcgis](https://github.com/esri-es/awesome-arcgis/) ⭐ 29 | 🐛 0 | 🌐 HTML | 📅 2021-01-05 - Awesome list with a wiki flavor with resources about Esri and ArcGIS, organized by: products, industries, file formats, content providers, etc.
 
@@ -300,16 +300,16 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 
 Any open issues are fair game. Even just telling us what you want to see would be extremely helpful!
 
-You can [file an issue](https://github.com/ArcGIS/awesome-arcgis-developer/issues/new) ⭐ 316 | 🐛 9 | 📅 2026-04-14 to request or suggest a specific resource.
+You can [file an issue](https://github.com/ArcGIS/awesome-arcgis-developer/issues/new) ⭐ 317 | 🐛 9 | 📅 2026-04-14 to request or suggest a specific resource.
 
 <!--lint disable no-emphasis-as-heading-->
 
 **Contributing**
 
-Esri welcomes contributions from anyone and everyone. You can [issue a pull request](https://github.com/ArcGIS/awesome-arcgis-developer/pulls) ⭐ 316 | 🐛 9 | 📅 2026-04-14 to propose an update, but before doing it, please:
+Esri welcomes contributions from anyone and everyone. You can [issue a pull request](https://github.com/ArcGIS/awesome-arcgis-developer/pulls) ⭐ 317 | 🐛 9 | 📅 2026-04-14 to propose an update, but before doing it, please:
 
 * Check the [contributing guidelines for this repo](origin/CONTRIBUTING.md).
-* Take a look at [previously logged issues](https://github.com/ArcGIS/awesome-arcgis-developer/issues) ⭐ 316 | 🐛 9 | 📅 2026-04-14.
+* Take a look at [previously logged issues](https://github.com/ArcGIS/awesome-arcgis-developer/issues) ⭐ 317 | 🐛 9 | 📅 2026-04-14.
 
 For more information, please see Esri's [guidelines for contributing](https://github.com/esri/contributing) ⭐ 17 | 🐛 1 | 📅 2026-03-13.
 
