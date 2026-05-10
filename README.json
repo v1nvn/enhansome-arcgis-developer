@@ -130,7 +130,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-04-22T09:23:38Z",
+                "last_commit": "2026-05-09T09:35:46Z",
                 "owner": "muimsd",
                 "repo": "esri-gl",
                 "stars": 11
@@ -142,7 +142,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-22T09:23:38Z",
+            "last_commit": "2026-05-09T09:35:46Z",
             "owner": "muimsd",
             "repo": "esri-gl",
             "stars": 11
@@ -571,7 +571,7 @@
                 "last_commit": "2026-05-08T23:13:36Z",
                 "owner": "OSGeo",
                 "repo": "gdal",
-                "stars": 5896
+                "stars": 5898
               }
             },
             {
@@ -596,7 +596,7 @@
             "last_commit": "2026-05-08T23:13:36Z",
             "owner": "OSGeo",
             "repo": "gdal",
-            "stars": 5896
+            "stars": 5898
           }
         },
         {
@@ -1086,7 +1086,7 @@
             "last_commit": "2024-09-02T10:54:17Z",
             "owner": "gpxstudio",
             "repo": "gpxstudio.github.io",
-            "stars": 631
+            "stars": 632
           }
         },
         {
@@ -1192,10 +1192,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-02T18:23:05Z",
+            "last_commit": "2026-05-09T13:58:13Z",
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10359
+            "stars": 10363
           }
         }
       ],
@@ -1286,7 +1286,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-09T05:20:44.604Z",
+    "last_updated": "2026-05-10T05:36:21.834Z",
     "original_repository": "Esri/awesome-arcgis-developer",
     "source_repository": "v1nvn/enhansome-arcgis-developer",
     "source_repository_description": null,
