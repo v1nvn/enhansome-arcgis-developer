@@ -455,7 +455,7 @@
                 "last_commit": "2026-05-15T19:45:11Z",
                 "owner": "Esri",
                 "repo": "jsapi-resources",
-                "stars": 760
+                "stars": 761
               }
             },
             {
@@ -568,10 +568,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-05-16T03:26:19Z",
+                "last_commit": "2026-05-17T00:40:14Z",
                 "owner": "OSGeo",
                 "repo": "gdal",
-                "stars": 5913
+                "stars": 5914
               }
             },
             {
@@ -593,10 +593,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-16T03:26:19Z",
+            "last_commit": "2026-05-17T00:40:14Z",
             "owner": "OSGeo",
             "repo": "gdal",
-            "stars": 5913
+            "stars": 5914
           }
         },
         {
@@ -681,7 +681,7 @@
                 "last_commit": "2026-05-09T03:16:16Z",
                 "owner": "terraformer-js",
                 "repo": "terraformer",
-                "stars": 233
+                "stars": 234
               }
             },
             {
@@ -746,7 +746,7 @@
                 "last_commit": "2026-05-15T18:42:47Z",
                 "owner": "mbloch",
                 "repo": "mapshaper",
-                "stars": 4107
+                "stars": 4110
               }
             }
           ],
@@ -758,7 +758,7 @@
             "last_commit": "2026-05-15T18:42:47Z",
             "owner": "mbloch",
             "repo": "mapshaper",
-            "stars": 4107
+            "stars": 4110
           }
         }
       ],
@@ -1099,7 +1099,7 @@
             "last_commit": "2026-05-15T18:42:47Z",
             "owner": "mbloch",
             "repo": "mapshaper",
-            "stars": 4107
+            "stars": 4110
           }
         },
         {
@@ -1195,7 +1195,7 @@
             "last_commit": "2026-05-14T14:01:18Z",
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10361
+            "stars": 10360
           }
         }
       ],
@@ -1286,7 +1286,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-16T05:26:15.277Z",
+    "last_updated": "2026-05-17T05:48:01.317Z",
     "original_repository": "Esri/awesome-arcgis-developer",
     "source_repository": "v1nvn/enhansome-arcgis-developer",
     "source_repository_description": null,
