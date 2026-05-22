@@ -455,7 +455,7 @@
                 "last_commit": "2026-05-15T19:45:11Z",
                 "owner": "Esri",
                 "repo": "jsapi-resources",
-                "stars": 761
+                "stars": 762
               }
             },
             {
@@ -568,10 +568,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-05-21T01:09:29Z",
+                "last_commit": "2026-05-21T21:59:56Z",
                 "owner": "OSGeo",
                 "repo": "gdal",
-                "stars": 5918
+                "stars": 5919
               }
             },
             {
@@ -593,10 +593,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-21T01:09:29Z",
+            "last_commit": "2026-05-21T21:59:56Z",
             "owner": "OSGeo",
             "repo": "gdal",
-            "stars": 5918
+            "stars": 5919
           }
         },
         {
@@ -746,7 +746,7 @@
                 "last_commit": "2026-05-20T17:52:11Z",
                 "owner": "mbloch",
                 "repo": "mapshaper",
-                "stars": 4110
+                "stars": 4111
               }
             }
           ],
@@ -758,7 +758,7 @@
             "last_commit": "2026-05-20T17:52:11Z",
             "owner": "mbloch",
             "repo": "mapshaper",
-            "stars": 4110
+            "stars": 4111
           }
         }
       ],
@@ -1073,7 +1073,7 @@
             "last_commit": "2026-05-20T15:47:55Z",
             "owner": "mapbox",
             "repo": "geojson.io",
-            "stars": 2154
+            "stars": 2155
           }
         },
         {
@@ -1099,7 +1099,7 @@
             "last_commit": "2026-05-20T17:52:11Z",
             "owner": "mbloch",
             "repo": "mapshaper",
-            "stars": 4110
+            "stars": 4111
           }
         },
         {
@@ -1192,7 +1192,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-19T17:32:18Z",
+            "last_commit": "2026-05-21T22:27:05Z",
             "owner": "Turfjs",
             "repo": "turf",
             "stars": 10359
@@ -1286,7 +1286,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-21T06:09:04.348Z",
+    "last_updated": "2026-05-22T06:05:10.445Z",
     "original_repository": "Esri/awesome-arcgis-developer",
     "source_repository": "v1nvn/enhansome-arcgis-developer",
     "source_repository_description": null,
