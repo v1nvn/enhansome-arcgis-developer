@@ -455,7 +455,7 @@
                 "last_commit": "2026-05-15T19:45:11Z",
                 "owner": "Esri",
                 "repo": "jsapi-resources",
-                "stars": 762
+                "stars": 763
               }
             },
             {
@@ -568,10 +568,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-05-21T21:59:56Z",
+                "last_commit": "2026-05-23T01:48:48Z",
                 "owner": "OSGeo",
                 "repo": "gdal",
-                "stars": 5919
+                "stars": 5921
               }
             },
             {
@@ -593,10 +593,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-21T21:59:56Z",
+            "last_commit": "2026-05-23T01:48:48Z",
             "owner": "OSGeo",
             "repo": "gdal",
-            "stars": 5919
+            "stars": 5921
           }
         },
         {
@@ -1143,7 +1143,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-03-02T16:42:52Z",
+            "last_commit": "2026-05-22T21:35:34Z",
             "owner": "Esri",
             "repo": "spatial-framework-for-hadoop",
             "stars": 376
@@ -1192,10 +1192,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-21T22:27:05Z",
+            "last_commit": "2026-05-22T12:58:41Z",
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10359
+            "stars": 10362
           }
         }
       ],
@@ -1286,7 +1286,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-22T06:05:10.445Z",
+    "last_updated": "2026-05-23T05:38:43.944Z",
     "original_repository": "Esri/awesome-arcgis-developer",
     "source_repository": "v1nvn/enhansome-arcgis-developer",
     "source_repository_description": null,
