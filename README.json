@@ -568,10 +568,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-05-23T01:48:48Z",
+                "last_commit": "2026-05-24T01:22:29Z",
                 "owner": "OSGeo",
                 "repo": "gdal",
-                "stars": 5921
+                "stars": 5922
               }
             },
             {
@@ -593,10 +593,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-23T01:48:48Z",
+            "last_commit": "2026-05-24T01:22:29Z",
             "owner": "OSGeo",
             "repo": "gdal",
-            "stars": 5921
+            "stars": 5922
           }
         },
         {
@@ -743,7 +743,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-05-20T17:52:11Z",
+                "last_commit": "2026-05-23T19:00:04Z",
                 "owner": "mbloch",
                 "repo": "mapshaper",
                 "stars": 4111
@@ -755,7 +755,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-20T17:52:11Z",
+            "last_commit": "2026-05-23T19:00:04Z",
             "owner": "mbloch",
             "repo": "mapshaper",
             "stars": 4111
@@ -1096,7 +1096,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-20T17:52:11Z",
+            "last_commit": "2026-05-23T19:00:04Z",
             "owner": "mbloch",
             "repo": "mapshaper",
             "stars": 4111
@@ -1286,7 +1286,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-23T05:38:43.944Z",
+    "last_updated": "2026-05-24T06:00:11.713Z",
     "original_repository": "Esri/awesome-arcgis-developer",
     "source_repository": "v1nvn/enhansome-arcgis-developer",
     "source_repository_description": null,
