@@ -568,10 +568,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-06-01T06:27:00Z",
+                "last_commit": "2026-06-01T18:59:42Z",
                 "owner": "OSGeo",
                 "repo": "gdal",
-                "stars": 5932
+                "stars": 5933
               }
             },
             {
@@ -593,10 +593,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-06-01T06:27:00Z",
+            "last_commit": "2026-06-01T18:59:42Z",
             "owner": "OSGeo",
             "repo": "gdal",
-            "stars": 5932
+            "stars": 5933
           }
         },
         {
@@ -746,7 +746,7 @@
                 "last_commit": "2026-05-29T14:42:51Z",
                 "owner": "mbloch",
                 "repo": "mapshaper",
-                "stars": 4118
+                "stars": 4119
               }
             }
           ],
@@ -758,7 +758,7 @@
             "last_commit": "2026-05-29T14:42:51Z",
             "owner": "mbloch",
             "repo": "mapshaper",
-            "stars": 4118
+            "stars": 4119
           }
         }
       ],
@@ -1070,10 +1070,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-29T14:55:44Z",
+            "last_commit": "2026-06-01T14:25:49Z",
             "owner": "mapbox",
             "repo": "geojson.io",
-            "stars": 2158
+            "stars": 2160
           }
         },
         {
@@ -1099,7 +1099,7 @@
             "last_commit": "2026-05-29T14:42:51Z",
             "owner": "mbloch",
             "repo": "mapshaper",
-            "stars": 4118
+            "stars": 4119
           }
         },
         {
@@ -1195,7 +1195,7 @@
             "last_commit": "2026-05-29T13:17:45Z",
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10364
+            "stars": 10365
           }
         }
       ],
@@ -1245,7 +1245,7 @@
             "last_commit": "2025-01-31T18:21:57Z",
             "owner": "Esri",
             "repo": "i3s-spec",
-            "stars": 337
+            "stars": 336
           }
         },
         {
@@ -1286,7 +1286,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-01T06:54:32.167Z",
+    "last_updated": "2026-06-02T06:40:40.909Z",
     "original_repository": "Esri/awesome-arcgis-developer",
     "source_repository": "v1nvn/enhansome-arcgis-developer",
     "source_repository_description": null,
