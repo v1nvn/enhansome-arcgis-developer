@@ -157,7 +157,7 @@
               "repo_info": {
                 "archived": false,
                 "language": null,
-                "last_commit": "2026-06-03T06:44:31Z",
+                "last_commit": "2026-06-03T10:42:06Z",
                 "owner": "Esri",
                 "repo": "cityengine-sdk",
                 "stars": 220
@@ -197,7 +197,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-06-03T06:44:31Z",
+            "last_commit": "2026-06-03T10:42:06Z",
             "owner": "Esri",
             "repo": "cityengine-sdk",
             "stars": 220
@@ -568,10 +568,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-06-02T10:49:00Z",
+                "last_commit": "2026-06-03T23:29:06Z",
                 "owner": "OSGeo",
                 "repo": "gdal",
-                "stars": 5934
+                "stars": 5936
               }
             },
             {
@@ -593,10 +593,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-06-02T10:49:00Z",
+            "last_commit": "2026-06-03T23:29:06Z",
             "owner": "OSGeo",
             "repo": "gdal",
-            "stars": 5934
+            "stars": 5936
           }
         },
         {
@@ -1070,10 +1070,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-01T14:25:49Z",
+            "last_commit": "2026-06-03T21:17:51Z",
             "owner": "mapbox",
             "repo": "geojson.io",
-            "stars": 2162
+            "stars": 2164
           }
         },
         {
@@ -1195,7 +1195,7 @@
             "last_commit": "2026-05-29T13:17:45Z",
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10368
+            "stars": 10370
           }
         }
       ],
@@ -1286,7 +1286,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-03T06:51:42.588Z",
+    "last_updated": "2026-06-04T06:41:29.662Z",
     "original_repository": "Esri/awesome-arcgis-developer",
     "source_repository": "v1nvn/enhansome-arcgis-developer",
     "source_repository_description": null,
