@@ -157,7 +157,7 @@
               "repo_info": {
                 "archived": false,
                 "language": null,
-                "last_commit": "2026-06-03T10:42:06Z",
+                "last_commit": "2026-06-04T12:37:15Z",
                 "owner": "Esri",
                 "repo": "cityengine-sdk",
                 "stars": 220
@@ -197,7 +197,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-06-03T10:42:06Z",
+            "last_commit": "2026-06-04T12:37:15Z",
             "owner": "Esri",
             "repo": "cityengine-sdk",
             "stars": 220
@@ -318,7 +318,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-06-03T00:30:11Z",
+            "last_commit": "2026-06-04T09:32:45Z",
             "owner": "EsriJapan",
             "repo": "arcgis-dev-resources",
             "stars": 10
@@ -452,7 +452,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-05-15T19:45:11Z",
+                "last_commit": "2026-06-04T19:12:28Z",
                 "owner": "Esri",
                 "repo": "jsapi-resources",
                 "stars": 763
@@ -568,7 +568,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-06-03T23:29:06Z",
+                "last_commit": "2026-06-04T23:04:32Z",
                 "owner": "OSGeo",
                 "repo": "gdal",
                 "stars": 5936
@@ -593,7 +593,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-06-03T23:29:06Z",
+            "last_commit": "2026-06-04T23:04:32Z",
             "owner": "OSGeo",
             "repo": "gdal",
             "stars": 5936
@@ -746,7 +746,7 @@
                 "last_commit": "2026-05-29T14:42:51Z",
                 "owner": "mbloch",
                 "repo": "mapshaper",
-                "stars": 4120
+                "stars": 4122
               }
             }
           ],
@@ -758,7 +758,7 @@
             "last_commit": "2026-05-29T14:42:51Z",
             "owner": "mbloch",
             "repo": "mapshaper",
-            "stars": 4120
+            "stars": 4122
           }
         }
       ],
@@ -1070,10 +1070,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-03T21:17:51Z",
+            "last_commit": "2026-06-04T18:47:32Z",
             "owner": "mapbox",
             "repo": "geojson.io",
-            "stars": 2164
+            "stars": 2166
           }
         },
         {
@@ -1099,7 +1099,7 @@
             "last_commit": "2026-05-29T14:42:51Z",
             "owner": "mbloch",
             "repo": "mapshaper",
-            "stars": 4120
+            "stars": 4122
           }
         },
         {
@@ -1133,7 +1133,7 @@
             "last_commit": "2022-04-07T18:52:00Z",
             "owner": "Esri",
             "repo": "gis-tools-for-hadoop",
-            "stars": 522
+            "stars": 523
           }
         },
         {
@@ -1195,7 +1195,7 @@
             "last_commit": "2026-05-29T13:17:45Z",
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10370
+            "stars": 10371
           }
         }
       ],
@@ -1286,7 +1286,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-04T06:41:29.662Z",
+    "last_updated": "2026-06-05T06:21:16.123Z",
     "original_repository": "Esri/awesome-arcgis-developer",
     "source_repository": "v1nvn/enhansome-arcgis-developer",
     "source_repository_description": null,
