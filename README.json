@@ -318,7 +318,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-06-04T09:32:45Z",
+            "last_commit": "2026-06-08T04:32:37Z",
             "owner": "EsriJapan",
             "repo": "arcgis-dev-resources",
             "stars": 10
@@ -568,10 +568,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-06-06T23:58:45Z",
+                "last_commit": "2026-06-08T01:18:05Z",
                 "owner": "OSGeo",
                 "repo": "gdal",
-                "stars": 5940
+                "stars": 5941
               }
             },
             {
@@ -593,10 +593,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-06-06T23:58:45Z",
+            "last_commit": "2026-06-08T01:18:05Z",
             "owner": "OSGeo",
             "repo": "gdal",
-            "stars": 5940
+            "stars": 5941
           }
         },
         {
@@ -746,7 +746,7 @@
                 "last_commit": "2026-06-06T01:52:30Z",
                 "owner": "mbloch",
                 "repo": "mapshaper",
-                "stars": 4123
+                "stars": 4126
               }
             }
           ],
@@ -758,7 +758,7 @@
             "last_commit": "2026-06-06T01:52:30Z",
             "owner": "mbloch",
             "repo": "mapshaper",
-            "stars": 4123
+            "stars": 4126
           }
         }
       ],
@@ -1099,7 +1099,7 @@
             "last_commit": "2026-06-06T01:52:30Z",
             "owner": "mbloch",
             "repo": "mapshaper",
-            "stars": 4123
+            "stars": 4126
           }
         },
         {
@@ -1195,7 +1195,7 @@
             "last_commit": "2026-06-06T12:56:54Z",
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10372
+            "stars": 10373
           }
         }
       ],
@@ -1286,7 +1286,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-07T06:22:55.135Z",
+    "last_updated": "2026-06-08T06:41:54.451Z",
     "original_repository": "Esri/awesome-arcgis-developer",
     "source_repository": "v1nvn/enhansome-arcgis-developer",
     "source_repository_description": null,
